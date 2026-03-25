@@ -7,3 +7,7 @@ pydantic
 pytest
 httpx
 prometheus-fastapi-instrumentator
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
+bcrypt==4.0.1
